@@ -1,6 +1,6 @@
 cask "tics" do
-  version "0.4.0"
-  sha256 "61bb7ffeedebb623df4405182d265dd9d94218889959bcd4bda7c813ba9b8a7e"
+  version "0.4.1"
+  sha256 "600a0a20f89168f2de3d1b6e252524c7f4593d4f9cc6c0e67dc8a86649972b14"
 
   url "https://github.com/yestoall/tics/releases/download/v#{version}/TICS.dmg"
   name "TICS"
